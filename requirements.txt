@@ -1,0 +1,7 @@
+openai
+transformers
+torch
+Pillow
+python-dotenv
+requests
+pytest
